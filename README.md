@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravsathyan&show_icons=true&locale=en" alt="souravsathyan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravsathyan&" alt="souravsathyan" /></p>
+
+<a href="https://app.daily.dev/souravksathyan"><img src="https://api.daily.dev/devcards/v2/938YpFRkNNWLjgcxjcGD2.png?type=default&r=5nc" width="356" alt="Sourav K Sathyan's Dev Card"/></a>
